@@ -1,5 +1,5 @@
 - Projeto ALGORITMOS E PROGRAMAÇÃO II | Faculdade Mackenzie
-- Tradutor de Código Morse Em C
+- Tradutor de Código Morse Em C (APENAS LETRAS)
 - Eric Denser Alencar 
 
 ========================================================
